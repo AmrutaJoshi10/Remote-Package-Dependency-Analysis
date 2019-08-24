@@ -1,0 +1,14 @@
+Y:\NotReleasedYet\Toker\Toker\obj\Debug\Toker.csprojResolveAssemblyReference.cache
+Y:\NotReleasedYet\Toker\Toker\obj\Debug\Toker.csproj.CoreCompileInputs.cache
+Y:\NotReleasedYet\Toker\Toker\bin\Debug\Toker.exe.config
+Y:\NotReleasedYet\Toker\Toker\bin\Debug\Toker.exe
+Y:\NotReleasedYet\Toker\Toker\bin\Debug\Toker.pdb
+Y:\NotReleasedYet\Toker\Toker\obj\Debug\Toker.exe
+Y:\NotReleasedYet\Toker\Toker\obj\Debug\Toker.pdb
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\Toker\bin\Debug\Toker.dll.config
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\Toker\bin\Debug\Toker.dll
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\Toker\bin\Debug\Toker.pdb
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\Toker\obj\Debug\Toker.csprojAssemblyReference.cache
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\Toker\obj\Debug\Toker.csproj.CoreCompileInputs.cache
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\Toker\obj\Debug\Toker.dll
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\Toker\obj\Debug\Toker.pdb

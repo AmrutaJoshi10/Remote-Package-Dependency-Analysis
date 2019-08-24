@@ -1,0 +1,5 @@
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\Element\bin\Debug\Element.dll
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\Element\bin\Debug\Element.pdb
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\Element\obj\Debug\Element.csproj.CoreCompileInputs.cache
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\Element\obj\Debug\Element.dll
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\Element\obj\Debug\Element.pdb

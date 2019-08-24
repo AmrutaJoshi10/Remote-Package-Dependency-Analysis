@@ -1,0 +1,6 @@
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\DependencyTable\bin\Debug\DependencyTable.dll.config
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\DependencyTable\bin\Debug\DependencyTable.dll
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\DependencyTable\bin\Debug\DependencyTable.pdb
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\DependencyTable\obj\Debug\DependencyTable.csproj.CoreCompileInputs.cache
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\DependencyTable\obj\Debug\DependencyTable.dll
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\DependencyTable\obj\Debug\DependencyTable.pdb

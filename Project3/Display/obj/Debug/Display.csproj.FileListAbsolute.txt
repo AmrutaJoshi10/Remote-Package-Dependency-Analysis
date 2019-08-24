@@ -1,0 +1,23 @@
+C:\su\cse681\code\Project4HelpF14\AnalyzerProject\Display\bin\Debug\Display.dll.config
+C:\su\cse681\code\Project4HelpF14\AnalyzerProject\Display\bin\Debug\Display.dll
+C:\su\cse681\code\Project4HelpF14\AnalyzerProject\Display\bin\Debug\Display.pdb
+C:\su\cse681\code\Project4HelpF14\AnalyzerProject\Display\obj\Debug\Display.csprojResolveAssemblyReference.cache
+C:\su\cse681\code\Project4HelpF14\AnalyzerProject\Display\obj\Debug\Display.dll
+C:\su\cse681\code\Project4HelpF14\AnalyzerProject\Display\obj\Debug\Display.pdb
+C:\su\temp\Parser\Display\bin\Debug\Display.dll.config
+C:\su\temp\Parser\Display\bin\Debug\Display.dll
+C:\su\temp\Parser\Display\bin\Debug\Display.pdb
+C:\su\temp\Parser\Display\obj\Debug\Display.csprojResolveAssemblyReference.cache
+C:\su\temp\Parser\Display\obj\Debug\Display.csproj.CoreCompileInputs.cache
+C:\su\temp\Parser\Display\obj\Debug\Display.dll
+C:\su\temp\Parser\Display\obj\Debug\Display.pdb
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\Display\bin\Debug\Display.dll.config
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\Display\bin\Debug\Display.dll
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\Display\bin\Debug\Display.pdb
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\Display\bin\Debug\Element.dll
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\Display\bin\Debug\Element.pdb
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\Display\obj\Debug\Display.csprojAssemblyReference.cache
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\Display\obj\Debug\Display.csproj.CoreCompileInputs.cache
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\Display\obj\Debug\Display.csproj.CopyComplete
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\Display\obj\Debug\Display.dll
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\Display\obj\Debug\Display.pdb

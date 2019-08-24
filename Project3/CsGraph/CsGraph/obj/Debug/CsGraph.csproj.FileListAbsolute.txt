@@ -1,0 +1,12 @@
+C:\su\Repository\CSharp\CsGraph\CsNode\bin\Debug\CsNode.exe
+C:\su\Repository\CSharp\CsGraph\CsNode\bin\Debug\CsNode.pdb
+C:\su\Repository\CSharp\CsGraph\CsNode\obj\Debug\CsGraph.csproj.CoreCompileInputs.cache
+C:\su\Repository\CSharp\CsGraph\CsNode\obj\Debug\CsNode.exe
+C:\su\Repository\CSharp\CsGraph\CsNode\obj\Debug\CsNode.pdb
+C:\su\Repository\CSharp\CsGraph\CsNode\obj\Debug\CsGraph.csprojResolveAssemblyReference.cache
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\CsGraph\CsGraph\bin\Debug\CsGraph.exe
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\CsGraph\CsGraph\bin\Debug\CsGraph.pdb
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\CsGraph\CsGraph\obj\Debug\CsGraph.csprojAssemblyReference.cache
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\CsGraph\CsGraph\obj\Debug\CsGraph.csproj.CoreCompileInputs.cache
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\CsGraph\CsGraph\obj\Debug\CsGraph.exe
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\CsGraph\CsGraph\obj\Debug\CsGraph.pdb

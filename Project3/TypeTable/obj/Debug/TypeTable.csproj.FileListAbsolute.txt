@@ -1,0 +1,7 @@
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\TypeTable\bin\Debug\TypeTable.dll.config
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\TypeTable\bin\Debug\TypeTable.dll
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\TypeTable\bin\Debug\TypeTable.pdb
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\TypeTable\obj\Debug\TypeTable.csprojAssemblyReference.cache
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\TypeTable\obj\Debug\TypeTable.csproj.CoreCompileInputs.cache
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\TypeTable\obj\Debug\TypeTable.dll
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\TypeTable\obj\Debug\TypeTable.pdb

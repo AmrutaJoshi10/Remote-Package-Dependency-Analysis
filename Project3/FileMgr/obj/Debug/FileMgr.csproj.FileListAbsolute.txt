@@ -1,0 +1,6 @@
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\FileMgr\bin\Debug\Navigate.dll
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\FileMgr\bin\Debug\Navigate.pdb
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\FileMgr\obj\Debug\FileMgr.csprojAssemblyReference.cache
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\FileMgr\obj\Debug\Navigate.dll
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\FileMgr\obj\Debug\Navigate.pdb

@@ -1,0 +1,11 @@
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\SemiExp\bin\Debug\SemiExp.dll.config
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\SemiExp\bin\Debug\SemiExp.dll
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\SemiExp\bin\Debug\SemiExp.pdb
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\SemiExp\bin\Debug\Toker.dll
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\SemiExp\bin\Debug\Toker.pdb
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\SemiExp\bin\Debug\Toker.dll.config
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\SemiExp\obj\Debug\SemiExp.csprojAssemblyReference.cache
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\SemiExp\obj\Debug\SemiExp.csproj.CoreCompileInputs.cache
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\SemiExp\obj\Debug\SemiExp.csproj.CopyComplete
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\SemiExp\obj\Debug\SemiExp.dll
+C:\Users\Amruta\Downloads\Project 4 SMA\Project3\SemiExp\obj\Debug\SemiExp.pdb
